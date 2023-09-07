@@ -1,7 +1,8 @@
+ <img src="https://picstatio.com/large/nqhjvv/web-development-minimal-wallpaper.png" alt="code" width="800" height="300"/>
+
 <h1 align="center">Hi 👋, I'm Mahmoud Mohamed Matar</h1>
 <h3 align="center">A passionate Software Engineer from Tanta</h3>
- <img src="https://picstatio.com/large/nqhjvv/web-development-minimal-wallpaper.png" alt="code" width="400" height="140"/>
- 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudmatar01&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudmatar01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@m7mudmatr" target="blank"><img src="https://img.shields.io/twitter/follow/@m7mudmatr?logo=twitter&style=for-the-badge" alt="@m7mudmatr" /></a> </p>
