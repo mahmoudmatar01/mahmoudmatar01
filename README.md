@@ -1,4 +1,4 @@
- <img src="https://picstatio.com/large/nqhjvv/web-development-minimal-wallpaper.png" alt="code" width="800" height="300"/>
+ <img src="https://picstatio.com/large/nqhjvv/web-development-minimal-wallpaper.png" alt="code" width="800" height="300" align="center"/>
 
 <h1 align="center">Hi 👋, I'm Mahmoud Mohamed Matar</h1>
 <h3 align="center">A passionate Software Engineer from Tanta</h3>
