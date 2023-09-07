@@ -7,12 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/@m7mudmatr" target="blank"><img src="https://img.shields.io/twitter/follow/@m7mudmatr?logo=twitter&style=for-the-badge" alt="@m7mudmatr" /></a> </p>
 
-- 🎓 Computer Science Student **🌍 Tanta University**
+- 🎓 Computer Science Student
+- 🌍 Tanta University
 
 - 💬 About Me:
-  software student with a strong foundation in programming and software principles.
-  I always strive to achieve good results, and I can adapt quickly to changing fields and contexts. I can also confront critical challenges and ensure ultimate success. In addition to my continuous thirst for  
-  knowledge and gaining experience, I can understand and grasp new technologies quickly.
+-  Software student with a strong foundation in programming and software principles.
+   I always strive to achieve good results, and I can adapt quickly to changing fields and contexts. I can also confront critical challenges and ensure ultimate success. In addition to my continuous thirst for  
+   knowledge and gaining experience, I can understand and grasp new technologies quickly.
  
 - 📫 How to reach me:  mahmmoudmatar49@gmail.com
 -  👀 I’m interested in programming and Software engineering
