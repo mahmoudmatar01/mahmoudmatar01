@@ -10,10 +10,10 @@
 - 🎓 Computer Science Student **🌍 Tanta University**
 
 - 💬 About Me:
-  I am a software student with a strong foundation in programming, and I am proactive and focused on achieving outcomes,
-  capable of acclimating to swiftly evolving contexts and effectively addressing crucial challenges to guarantee ultimate success. Furthermore,
-  I possess a continuous thirst for knowledge and personal growth, coupled with a natural aptitude for swiftly grasping and mastering emerging technologies.
-
+  software student with a strong foundation in programming and software principles.
+  I always strive to achieve good results, and I can adapt quickly to changing fields and contexts. I can also confront critical challenges and ensure ultimate success. In addition to my continuous thirst for  
+  knowledge and gaining experience, I can understand and grasp new technologies quickly.
+ 
 - 📫 How to reach me:  mahmmoudmatar49@gmail.com
 -  👀 I’m interested in programming and Software engineering
 
