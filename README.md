@@ -23,12 +23,10 @@
  
 
 <p align="center">
-  
 <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-<img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=298EBB&width=435&lines=I'm+Mahmoud+%2CComputer+Science+Student;I+always+have+a+passion+for+coding+and+learning" alt="Typing SVG" /></img>
 </p> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=298EBB&width=435&lines=I'm+Mahmoud+%2CComputer+Science+Student;I+always+have+a+passion+for+coding+and+learning" alt="Typing SVG" /></a>
    
- 
 - 📫 How to reach me:  mahmmoudmatar592@gmail.com
 - 👀 I’m interested in programming and Software engineering
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
