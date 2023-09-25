@@ -25,7 +25,7 @@
 <p align="center">
   
 <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-<img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=298EBB&width=435&lines=I'm+Mahmoud+%2CComputer+Science+Student;I+always+have+a+passion+for+coding+and+learning" alt="Typing SVG" /></a>
+<img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=298EBB&width=435&lines=I'm+Mahmoud+%2CComputer+Science+Student;I+always+have+a+passion+for+coding+and+learning" alt="Typing SVG" /></img>
 </p> 
    
  
