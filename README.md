@@ -1,6 +1,14 @@
  <img src="https://media.licdn.com/dms/image/D4D16AQESItMQDpYQYw/profile-displaybackgroundimage-shrink_350_1400/0/1694097991699?e=1699488000&v=beta&t=BWwW0GJi79eppI2HsbUXtDwss2HN0yK8TtqY3pWJRJ8" alt="code" width="900" height="300" align="center"/>
 
-<h1 align="center">Hi 👋, I'm Mahmoud Mohamed Matar</h1>
+<h3 align="center">
+  Hi 👋, Welcome to  Mahmoud Matar profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG by DenverCoder1 -  -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 <h3 align="center">A passionate Software Engineer From Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudmatar01&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudmatar01" /> </p>
