@@ -5,7 +5,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<h3 align="center">A passionate Software Engineer From Egypt</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=298EBB&width=435&lines=A+passionate+Software+Engineer+;learning+new+things" alt="Typing SVG" /></a>
+</p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudmatar01&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudmatar01" /> </p>
 
@@ -23,8 +25,10 @@
  
    
  
-- 📫 How to reach me:  mahmmoudmatar49@gmail.com
--  👀 I’m interested in programming and Software engineering
+- 📫 How to reach me:  mahmmoudmatar592@gmail.com
+- 👀 I’m interested in programming and Software engineering
+- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
