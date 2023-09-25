@@ -1,4 +1,4 @@
- <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="code" width="900" height="300" align="center"/>
+ <img src="https://ardas-it.com/uploads/images/blogs/giph.gif" alt="code" width="900" height="300" align="center"/>
 
 <h3 align="center">
   Hi 👋, Welcome to  Mahmoud Matar profile!
