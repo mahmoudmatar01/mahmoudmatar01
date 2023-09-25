@@ -17,7 +17,8 @@
 - 🌍 Tanta University
 
  <h3 align="left">💬 About Me :</h3>
-- 👨‍💻 Software student with a strong foundation in programming, and software principles.
+ 
+ <p👨‍💻 Software student with a strong foundation in programming, and software principles/></p>.
 - 🏢always strive to achieve good results, and I can adapt quickly to changing fields and contexts.I can also confront critical challenges and ensure ultimate  
    success.
 - In addition to my continuous thirst for knowledge and gaining experience, I can understand and grasp new technologies quickly.
