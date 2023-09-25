@@ -21,8 +21,12 @@
                 to changing fields and contexts.I can also confront critical challenges and ensure ultimate success. In addition to my continuous thirst for 
                 knowledge and gaining experience, I can understand and grasp new technologies quickly.
  
-     
- 
+
+<p align="center">
+  
+<img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=298EBB&width=435&lines=I'm+Mahmoud+%2CComputer+Science+Student;I+always+have+a+passion+for+coding+and+learning" alt="Typing SVG" /></a>
+</p> 
    
  
 - 📫 How to reach me:  mahmmoudmatar592@gmail.com
