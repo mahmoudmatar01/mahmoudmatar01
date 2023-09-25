@@ -1,4 +1,4 @@
- <img src="https://media.licdn.com/dms/image/D4D16AQESItMQDpYQYw/profile-displaybackgroundimage-shrink_350_1400/0/1694097991699?e=1699488000&v=beta&t=BWwW0GJi79eppI2HsbUXtDwss2HN0yK8TtqY3pWJRJ8" alt="code" width="900" height="300" align="center"/>
+ <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="code" width="900" height="300" align="center"/>
 
 <h3 align="center">
   Hi 👋, Welcome to  Mahmoud Matar profile!
