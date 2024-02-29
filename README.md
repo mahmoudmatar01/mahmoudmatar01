@@ -23,7 +23,7 @@
    success.
 - Besides my continuous thirst for knowledge and gaining experience, I can quickly understand and grasp new technologies.
  
-- 📫 How to reach me:  <a href="mahmmoudmatar49@gmail.com"/>
+- 📫 How to reach me:  <a href="mahmmoudmatar49@gmail.com">mahmmoudmatar49@gmail.com</a>
 - 👀 I’m interested in programming and Software engineering
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
