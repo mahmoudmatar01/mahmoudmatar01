@@ -18,7 +18,7 @@
 
  <h3 align="left">💬 About Me :</h3>
  
-- 👨‍💻 Software Engineer with a strong foundation in programming, and software principles.
+- 👨‍💻 Junior Software Engineer with a strong foundation in programming, and software principles.
 - 🏢always strive to achieve good results, and I can adapt quickly to changing fields and contexts. I can also confront critical challenges and ensure the ultimate  
    success.
 - Besides my continuous thirst for knowledge and gaining experience, I can quickly understand and grasp new technologies.
