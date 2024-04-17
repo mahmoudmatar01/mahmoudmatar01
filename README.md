@@ -13,14 +13,13 @@
 
 <p align="left"> <a href="https://twitter.com/@m7mudmatr" target="blank"><img src="https://img.shields.io/twitter/follow/@m7mudmatr?logo=twitter&style=for-the-badge" alt="@m7mudmatr" /></a> </p>
 
-- 🎓 Computer Science 
+- 🎓 Bachelor's in Computer Science (CS Department) 
 - 🌍 Tanta University
 
  <h3 align="left">💬 About Me :</h3>
  
 - 👨‍💻 Junior Software Engineer with a strong foundation in programming, and software principles.
-- 🏢always strive to achieve good results, and I can adapt quickly to changing fields and contexts. I can also confront critical challenges and ensure the ultimate  
-   success.
+- 🏢always strive to achieve good results, and I can adapt quickly to changing fields and contexts. I can also confront critical challenges and ensure the ultimate success.
 - Besides my continuous thirst for knowledge and gaining experience, I can quickly understand and grasp new technologies.
  
 - 📫 How to reach me:  <a href="mahmmoudmatar49@gmail.com">mahmmoudmatar49@gmail.com</a>
