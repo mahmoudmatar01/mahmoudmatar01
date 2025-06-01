@@ -18,7 +18,7 @@
 
  <h3 align="left">💬 About Me :</h3>
  
-- 👨‍💻 Junior Java Software Engineer with a strong foundation in software development and expertise in Java frameworks such as Spring Boot and Hibernate. Passionate about developing scalable, secure software solutions and seeking opportunities to contribute to impactful projects while enhancing skills and growing professionally.
+- 👨‍💻 Software Engineer with a strong foundation in software development and expertise in Java frameworks such as Spring Boot and Hibernate. Passionate about developing scalable, secure software solutions and seeking opportunities to contribute to impactful projects while enhancing skills and growing professionally.
 - 🏢always strive to achieve good results, and I can adapt quickly to changing fields and contexts. I can also confront critical challenges and ensure the ultimate success.
 - Besides my continuous thirst for knowledge and gaining experience, I can quickly understand and grasp new technologies.
  
